@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paulopoku
-- 👀 I’m interested in ... open source bitcoin projects
-- 🌱 I’m currently learning ... Python, C++, JavaScript 
+- 👀 I’m interested in ... open source bitcoin projects. Anything really.
+- 🌱 I’m currently learning ... C++, Go 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Twitter: @paulopokuks, paulksopoku@gmail.com
 
